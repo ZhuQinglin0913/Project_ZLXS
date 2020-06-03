@@ -1,0 +1,5 @@
+include ':utils'
+include ':datas'
+include ':frams'
+include ':app'
+rootProject.name = "Project_ZLXS"
